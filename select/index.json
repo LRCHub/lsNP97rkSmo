@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ありがとさん",
+  "base_artist": "Spitz",
+  "createdAt": "2026-02-28T08:14:33.191386Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ありがとさん",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/01_ありがとさん_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ありがとさん",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/02_ありがとさん_スピッツ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ありがとさん",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_ありがとさん_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ありがとさん",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_02_ありがとさん_スピッツ.txt"
+    }
+  ]
+}
